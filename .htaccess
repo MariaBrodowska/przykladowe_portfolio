@@ -4,7 +4,7 @@ Order Allow,Deny
 Deny from all
 </FilesMatch>
 
-RewriteEngine on
+DirectoryIndex on
 DirectoryIndex zatrudnij-programiste-webowego index.html
 DirectoryIndex kim-jestem kimjestem.html
 DirectoryIndex oferta-tworzenie-stron-www oferta.html

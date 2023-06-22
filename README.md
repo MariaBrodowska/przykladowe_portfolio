@@ -1,3 +1,2 @@
-#przykladowe portfolio
-<br>
+# przykladowe portfolio
 -zrealizowane z kursem Pasja Infromatyka-
